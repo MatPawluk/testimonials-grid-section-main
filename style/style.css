@@ -67,6 +67,10 @@ body {
 }
 .cards__card-1 {
   background-color: hsl(263, 55%, 52%);
+  background-image: url(../images/bg-pattern-quotation.svg);
+  background-repeat: no-repeat;
+  background-position: 85% 17px;
+  background-size: 24%;
 }
 .cards__card-1 .user .avatar {
   border-color: hsl(263, 73%, 64%);

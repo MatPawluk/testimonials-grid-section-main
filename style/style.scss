@@ -69,6 +69,10 @@ body {
 
   &__card-1 {
     background-color: $Moderate-violet;
+    background-image: url(../images/bg-pattern-quotation.svg);
+    background-repeat: no-repeat;
+    background-position: 85% 17px;
+    background-size: 24%;
     .user {
       .avatar {
         border-color: $Moderate-violet-light;
