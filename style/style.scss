@@ -11,8 +11,11 @@ body {
   align-items: center;
 }
 
+main {
+    height: 100vh;
+}
 .cards {
-  height: 100vh;
+
   &__card {
     border-radius: 10px;
     display: flex;
